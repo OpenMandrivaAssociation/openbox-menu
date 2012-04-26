@@ -9,6 +9,7 @@ Source0:	http://mimarchlinux.googlecode.com/%{name}-%{version}.tar.bz2
 Patch1:		openbox-menu-0.3.6.6_makefile-install.patch
 
 BuildRequires:	pkgconfig(glib-2.0)
+BuildRequires:	pkgconfig(gtk+-2.0)
 BuildRequires:	pkgconfig(libmenu-cache)
 
 Requires:	openbox
