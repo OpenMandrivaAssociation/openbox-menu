@@ -32,3 +32,10 @@ An Openbox pipe-menu to display entries in *.desktop files.
 %doc ChangeLog AUTHORS COPYING
 %{_bindir}/%{name}
 
+
+
+%changelog
+* Thu Apr 26 2012 Matthew Dawkins <mattydaw@mandriva.org> 0.3.6.6-1
++ Revision: 793615
+- imported package openbox-menu
+
