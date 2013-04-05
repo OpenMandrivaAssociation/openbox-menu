@@ -1,3 +1,5 @@
+%define debug_package %{nil}
+
 Summary:	Dynamic menus in Openbox WM
 Name:		openbox-menu
 Version:	0.3.6.6
