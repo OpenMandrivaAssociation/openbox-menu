@@ -6,14 +6,12 @@ Version:	0.3.6.6
 Release:	1
 License:	GPLv3
 Group:		Graphical desktop/Other
-URL:		http://mimarchlinux.googlecode.com/
+Url:		http://mimarchlinux.googlecode.com/
 Source0:	http://mimarchlinux.googlecode.com/%{name}-%{version}.tar.bz2
 Patch1:		openbox-menu-0.3.6.6_makefile-install.patch
-
 BuildRequires:	pkgconfig(glib-2.0)
 BuildRequires:	pkgconfig(gtk+-2.0)
 BuildRequires:	pkgconfig(libmenu-cache)
-
 Requires:	openbox
 Requires:	menu-cache
 
@@ -33,11 +31,4 @@ An Openbox pipe-menu to display entries in *.desktop files.
 %files 
 %doc ChangeLog AUTHORS COPYING
 %{_bindir}/%{name}
-
-
-
-%changelog
-* Thu Apr 26 2012 Matthew Dawkins <mattydaw@mandriva.org> 0.3.6.6-1
-+ Revision: 793615
-- imported package openbox-menu
 
