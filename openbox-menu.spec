@@ -3,7 +3,7 @@ Summary:	Dynamic menus in Openbox WM
 
 Name:		openbox-menu
 Version:	0.5.0
-Release:	6
+Release:	7
 License:	GPLv3
 Group:		Graphical desktop/Other
 URL:		http://mimarchlinux.googlecode.com/
