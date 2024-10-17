@@ -6,7 +6,7 @@ Version:	0.5.0
 Release:	8
 License:	GPLv3
 Group:		Graphical desktop/Other
-URL:		http://mimarchlinux.googlecode.com/
+URL:		https://mimarchlinux.googlecode.com/
 Source0:	http://mimarchlinux.googlecode.com/files/%{name}-%{version}.tar.bz2
 
 BuildRequires:	pkgconfig(glib-2.0)
