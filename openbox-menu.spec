@@ -9,6 +9,7 @@ Group:		Graphical desktop/Other
 URL:		https://mimarchlinux.googlecode.com/
 Source0:	http://mimarchlinux.googlecode.com/files/%{name}-%{version}.tar.bz2
 
+BuildRequires:	make
 BuildRequires:	pkgconfig(glib-2.0)
 BuildRequires:	pkgconfig(gtk+-2.0)
 BuildRequires:	pkgconfig(libmenu-cache)
